@@ -1,0 +1,15 @@
+<metadata xmlns="http://dynamo.documill.com/schemas/dynamoAddIn" xmlns:wizard="http://dynamo.documill.com/schemas/taglib/wizard" template="true">
+  <parameters>
+		<param name="id" value=""/>
+	</parameters>
+  <templateSettings> 
+		<setting name="type" value="singleuser"/>
+		<setting name="info" value="A blank template that can be connected to any Salesforce Object"/>
+    <setting name="daeVersion" value="1.0"/>
+    <setting name="templateVersion" value="2019-01"/>
+	</templateSettings>
+	<flowSettings>
+		
+	<setting name="advancedUI" value="true"/></flowSettings>
+  <tabConfiguration currentURL="/app/[AppID]"><tab type="null" label="Home" icon="fa fa-home" url="/app/[AppID]" isCloseable="false"/></tabConfiguration>
+<workspaceSettings><workspace type="content"><taskPanes><left><setting name="isCollapsed" value="false"/><setting name="size" value="unset"/><setting name="width" value="unset"/></left><center><setting name="size" value="unset"/><setting name="width" value="unset"/></center><right><setting name="isCollapsed" value="false"/><setting name="size" value="unset"/><setting name="width" value="unset"/></right></taskPanes></workspace><workspace type="logic"><taskPanes><left><setting name="isCollapsed" value="false"/><setting name="size" value="unset"/><setting name="width" value="unset"/></left><center><setting name="size" value="unset"/><setting name="width" value="unset"/></center><right><setting name="isCollapsed" value="false"/><setting name="size" value="unset"/><setting name="width" value="unset"/></right></taskPanes></workspace><workspace type="screen"><taskPanes><left><setting name="isCollapsed" value="false"/><setting name="size" value="unset"/><setting name="width" value="unset"/></left><center><setting name="size" value="unset"/><setting name="width" value="unset"/></center><right><setting name="isCollapsed" value="false"/><setting name="size" value="unset"/><setting name="width" value="unset"/></right></taskPanes></workspace></workspaceSettings><sourceEditorSettings><setting id="undefined"/></sourceEditorSettings></metadata>
